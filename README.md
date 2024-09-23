@@ -13,4 +13,3 @@ https://sinqi.tools/backgrounds
 https://bg.ibelick.com
 
 
-npm run dev
