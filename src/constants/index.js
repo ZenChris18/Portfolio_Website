@@ -7,9 +7,9 @@ export const ABOUT_TEXT = `Lorem ipsum odor amet, consectetuer adipiscing elit. 
 export const EXPERIENCES = [
   {
     year: "2024 - 2024",
-    role: "FullStack Developer Inter",
+    role: "FullStack Developer Intern",
     company: "ROC.PH",
-    description: `Led a team as assistant team leader in developing and maintaining web applications using wordpress, elementor, php, and laravel. Collaborated with other teams to complete project requirements and deadlines.`,
+    description: `Led a team as an assistant team leader in developing and maintaining web applications using wordpress, elementor, php, and laravel. Collaborated with other teams to complete project requirements and deadlines.`,
     technologies: ["Wordpress", "Javascript", "PHP", "Laravel"],
   },
 ];
